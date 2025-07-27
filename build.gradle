@@ -24,7 +24,7 @@ dependencies {
 group = 'com.example'
 version = '0.0.1-SNAPSHOT'
 description = 'simpletasktracker'
-java.sourceCompatibility = JavaVersion.VERSION_1_8
+java.sourceCompatibility = JavaVersion.VERSION_24
 
 publishing {
     publications {
